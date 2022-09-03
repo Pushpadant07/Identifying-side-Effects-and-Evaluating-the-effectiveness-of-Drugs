@@ -3,6 +3,8 @@
 
 
 
+# Download All Data sets and files from this link - https://drive.google.com/drive/folders/1OjjUttHrQ5v1bJqwVkyGWGEoCnKVFP0n?usp=sharing
+
 Business objective:- The aim of this project is to create a text-mining model to evaluate the effectiveness and detect potential side effects from online customer reviews on specific prescriptive drugs
 
 ## Before accessing the files please go through the description. ##
